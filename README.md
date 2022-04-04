@@ -1,2 +1,21 @@
-# -Python-basic-syntax
-This project is a compilation of basic Python syntax.
+# 파이썬 기본 문법 정리
+
+파이썬으로 배우는 웹 크롤러 책에 나오는 기본 문법 부분들을 colab에 쳐보고 실행을하면서 학습을하였습니다.
+
+## 목차
+* 변수
+* 데이터 타입
+  * 숫자형
+  * 문자열
+  * 리스트
+  * 딕셔너리
+  * 튜플
+* 연산자
+  * AND 연산
+  * OR 연산
+  * NOT 연산
+* 조건 분기(if~ else)
+* 반복문
+
+## 출처
+제 블로그: [블로그 주소](https://highschool-ai-scientist.tistory.com/26)
